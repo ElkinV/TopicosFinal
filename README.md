@@ -291,8 +291,5 @@ Este proyecto es de código abierto y está disponible para uso educativo y de d
 
 ## 👨‍💻 Autores : Elkin Vasquez, Gybram Llamas
 
-Proyecto creado como ejemplo de integración de Spring Boot con Apache Kafka.
-
----
 
 **Nota**: Asegúrate de que Kafka y Zookeeper estén ejecutándose antes de iniciar las aplicaciones Spring Boot.
