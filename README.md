@@ -1,4 +1,4 @@
-# Spring Apache Kafka - Proyecto de Ejemplo
+# Spring Apache Kafka - Proyecto Final
 
 Este proyecto es una aplicación de ejemplo que demuestra cómo integrar Apache Kafka con Spring Boot. El proyecto está estructurado como un proyecto Maven multi-módulo que incluye un **Productor (Provider)** y un **Consumidor (Consumer)** de Kafka.
 
@@ -289,7 +289,7 @@ Las contribuciones son bienvenidas. Por favor:
 
 Este proyecto es de código abierto y está disponible para uso educativo y de demostración.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores : Elkin Vasquez, Gybram Llamas
 
 Proyecto creado como ejemplo de integración de Spring Boot con Apache Kafka.
 
