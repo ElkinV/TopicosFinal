@@ -269,16 +269,6 @@ Las dependencias principales se encuentran en el `pom.xml` padre:
 3. El **Consumer** está escuchando el tópico
 4. Cuando llega un mensaje, el listener lo procesa y lo registra en los logs
 
-## 📚 Recursos Adicionales
-
-- [Documentación de Spring Kafka](https://docs.spring.io/spring-kafka/docs/current/reference/html/)
-- [Documentación de Apache Kafka](https://kafka.apache.org/documentation/)
-- [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible para uso educativo y de demostración.
 
 ## 👨‍💻 Autores : Elkin Vasquez, Gybram Llamas
 
